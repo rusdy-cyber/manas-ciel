@@ -1,4 +1,4 @@
-# `manas-ciel`psqli-pro
+# `manas-ciel` psqli-pro
 Powerfull Automatic Sql injection Tools Pack
 <h1 align="center">
   <img src="https://i.ibb.co/LYnKqpr/logopsqli.png"></h1>
