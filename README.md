@@ -76,7 +76,7 @@ Powerfull Automatic Sql injection Tools Pack
 ### Instalasi
   ```bash
 $ pkg install bash curl git
-$ git clone https://github.com/manas-ciel
+$ git clone https://github.com/rusdy-cyber/manas-ciel
 $ bash psqli.sh
 $ bash psqli.sh s #untuk string based injection only
 
