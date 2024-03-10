@@ -1,4 +1,4 @@
-# psqli-pro
+# (manas-ciel)psqli-pro
 Powerfull Automatic Sql injection Tools Pack
 <h1 align="center">
   <img src="https://i.ibb.co/LYnKqpr/logopsqli.png"></h1>
@@ -76,8 +76,7 @@ Powerfull Automatic Sql injection Tools Pack
 ### Instalasi
   ```bash
 $ pkg install bash curl git
-$ git clone https://github.com/Agressiv1njector/psqli-pro
-$ cd psqli-pro
+$ git clone https://github.com/manas-ciel
 $ bash psqli.sh
 $ bash psqli.sh s #untuk string based injection only
 
